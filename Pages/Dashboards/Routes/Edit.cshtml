@@ -1,0 +1,45 @@
+﻿@page
+@model bus_transport_mgt_sys.Pages.Dashboards.Routes.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Route</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Route.RouteId" />
+            <div class="form-group">
+                <label asp-for="Route.RouteName" class="control-label"></label>
+                <input asp-for="Route.RouteName" class="form-control" />
+                <span asp-validation-for="Route.RouteName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Route.Departure" class="control-label"></label>
+                <input asp-for="Route.Departure" class="form-control" />
+                <span asp-validation-for="Route.Departure" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Route.Destination" class="control-label"></label>
+                <input asp-for="Route.Destination" class="form-control" />
+                <span asp-validation-for="Route.Destination" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

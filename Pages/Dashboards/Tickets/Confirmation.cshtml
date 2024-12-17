@@ -1,0 +1,80 @@
+﻿@page
+@model bus_transport_mgt_sys.Pages.Dashboards.Tickets.ConfirmationModel
+@{
+    ViewData["Title"] = "Ticket Confirmation";
+}
+<h2 class="text-center">Ticket Confirmation</h2>
+
+<div class="card mx-auto my-4" style="max-width: 600px;">
+    <div class="card-body">
+        @if (Model.Ticket != null)
+        {
+            <h4 class="card-title text-primary text-center mb-3">Ticket Details</h4>
+            <dl class="row">
+                <dt class="col-sm-4">Ticket ID:</dt>
+                <dd class="col-sm-8">@Model.Ticket.TicketId</dd>
+
+                <dt class="col-sm-4">Route:</dt>
+                <dd class="col-sm-8">@Model.Ticket.RouteName</dd>
+
+                <dt class="col-sm-4">Bus Plate No:</dt>
+                <dd class="col-sm-8">@Model.Ticket.BusPlateNo</dd>
+
+                <dt class="col-sm-4">Departure:</dt>
+                <dd class="col-sm-8">@Model.Ticket.DepartureTime.ToString("g")</dd>
+
+                <dt class="col-sm-4">Arrival:</dt>
+                <dd class="col-sm-8">@Model.Ticket.ArrivalTime.ToString("g")</dd>
+
+                <dt class="col-sm-4">Amount Paid:</dt>
+                <dd class="col-sm-8">$@Model.Ticket.Amount</dd>
+
+                <dt class="col-sm-4">Payment Date:</dt>
+                <dd class="col-sm-8">@Model.Ticket.PaymentDate.ToString("g")</dd>
+            </dl>
+
+            <div class="text-center mt-4">
+                <button id="downloadPdfButton" class="btn btn-success">
+                    Download PDF
+                </button>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-danger text-center">
+                Ticket details could not be found.
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('downloadPdfButton').addEventListener('click', function () {
+            var ticketId = @Model.Ticket.TicketId;
+            var url = '@Url.Page("Confirmation", "DownloadPdf")' + '&TicketId=' + ticketId;
+
+            fetch(url)
+                .then(function (response) {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.blob();
+                })
+                .then(function (blob) {
+                    var url = window.URL.createObjectURL(blob);
+                    var link = document.createElement('a');
+                    link.href = url;
+                    link.download = 'Ticket_' + ticketId + '_Confirmation.pdf';
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                    window.URL.revokeObjectURL(url);
+                })
+                .catch(function (error) {
+                    console.error('Error downloading PDF:', error);
+                    alert('An error occurred while downloading the PDF.');
+                });
+        });
+    </script>
+}

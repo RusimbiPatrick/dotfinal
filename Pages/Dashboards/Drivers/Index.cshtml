@@ -1,0 +1,228 @@
+﻿@page
+@model bus_transport_mgt_sys.Pages.Dashboards.Drivers.IndexModel
+
+@{
+    ViewData["Title"] = "Driver Management";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <a asp-page="/Dashboards/adminDashboard" class="btn btn-secondary">Back</a>
+        <h1 class="text-primary">Driver Management</h1>
+        <div class="d-flex gap-2">
+            <a asp-page="Create" class="btn btn-success">Create New</a>
+            <button onclick="exportTableToCSV()" class="btn btn-primary">Export to CSV</button>
+        </div>
+    </div>
+
+    <!-- Search and Filter Controls -->
+    <div class="row mb-3">
+        <!-- Search Field -->
+        <div class="col-md-4">
+            <input id="searchInput" type="text" class="form-control" placeholder="Search drivers..." onkeyup="filterTable()" />
+        </div>
+
+        <!-- Filter by Licence -->
+        <div class="col-md-3">
+            <select id="filterLicence" class="form-select" onchange="filterTable()">
+                <option value="">Filter by Licence</option>
+                @foreach (var licence in Model.LicencesDistinct)
+                {
+                    <option value="@licence">@licence</option>
+                }
+            </select>
+        </div>
+
+        <!-- Filter by Assigned Bus -->
+        <div class="col-md-3">
+            <select id="filterBus" class="form-select" onchange="filterTable()">
+                <option value="">Filter by Assigned Bus</option>
+                @foreach (var bus in Model.AssignedBusesDistinct)
+                {
+                    <option value="@bus">@bus</option>
+                }
+            </select>
+        </div>
+
+        <!-- Sort by User ID -->
+        <div class="col-md-2">
+            <select id="sortOrder" class="form-select" onchange="sortTableByUserId()">
+                <option value="">Sort by User ID</option>
+                <option value="asc">User ID Ascending</option>
+                <option value="desc">User ID Descending</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Drivers Table -->
+    <table id="driverTable" class="table table-striped table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th onclick="sortTable(0)" style="cursor: pointer;">User ID</th>
+                <th onclick="sortTable(1)" style="cursor: pointer;">Licence</th>
+                <th onclick="sortTable(2)" style="cursor: pointer;">Assigned Bus</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Driver)
+            {
+                <tr>
+                    <td>@item.UserId</td>
+                    <td>@item.Licence</td>
+                    <td>@item.AssignedBus.PlateNo</td>
+                    <td>
+                        <div class="d-flex gap-2">
+                            <a asp-page="./Edit" asp-route-id="@item.DriverId" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-page="./Details" asp-route-id="@item.DriverId" class="btn btn-info btn-sm">Details</a>
+                            <a asp-page="./Delete" asp-route-id="@item.DriverId" class="btn btn-danger btn-sm">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- JavaScript for Frontend Search, Sort, Filter, and Export -->
+<script>
+    // Debounce function to optimize search performance
+    function debounce(func, delay) {
+        let debounceTimer;
+        return function() {
+            const context = this;
+            const args = arguments;
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => func.apply(context, args), delay);
+        }
+    }
+
+    // Function to filter table rows
+    function filterTable() {
+        const searchInput = document.getElementById('searchInput').value.toLowerCase();
+        const filterLicence = document.getElementById('filterLicence').value.toLowerCase();
+        const filterBus = document.getElementById('filterBus').value.toLowerCase();
+        const table = document.getElementById('driverTable');
+        const rows = table.getElementsByTagName('tr');
+
+        for (let i = 1; i < rows.length; i++) { // Start from 1 to skip header
+            const userId = rows[i].cells[0].textContent.toLowerCase();
+            const licence = rows[i].cells[1].textContent.toLowerCase();
+            const assignedBus = rows[i].cells[2].textContent.toLowerCase();
+
+            const matchesSearch = userId.includes(searchInput) || licence.includes(searchInput) || assignedBus.includes(searchInput);
+            const matchesFilterLicence = !filterLicence || licence === filterLicence;
+            const matchesFilterBus = !filterBus || assignedBus === filterBus;
+
+            rows[i].style.display = (matchesSearch && matchesFilterLicence && matchesFilterBus) ? '' : 'none';
+        }
+    }
+
+    // Attach debounce to the search input
+    document.getElementById('searchInput').addEventListener('keyup', debounce(filterTable, 300));
+
+    // Function to sort table by column
+    function sortTable(columnIndex) {
+        const table = document.getElementById('driverTable');
+        const tbody = table.tBodies[0];
+        const rows = Array.from(tbody.rows);
+        const currentSortOrder = table.getAttribute('data-sort-order') === 'asc' ? 'desc' : 'asc';
+        const multiplier = currentSortOrder === 'asc' ? 1 : -1;
+
+        rows.sort((a, b) => {
+            const aText = a.cells[columnIndex].textContent.trim();
+            const bText = b.cells[columnIndex].textContent.trim();
+
+            // Handle numeric sorting if needed
+            if (!isNaN(aText) && !isNaN(bText)) {
+                return (parseFloat(aText) - parseFloat(bText)) * multiplier;
+            }
+
+            // Handle string comparison
+            return aText.localeCompare(bText) * multiplier;
+        });
+
+        // Append sorted rows back to the table
+        rows.forEach(row => tbody.appendChild(row));
+
+        // Update sort order attribute
+        table.setAttribute('data-sort-order', currentSortOrder);
+    }
+
+    // Function to sort table by User ID using the sortOrder select
+    function sortTableByUserId() {
+        const sortOrder = document.getElementById('sortOrder').value;
+        const table = document.getElementById('driverTable');
+        const tbody = table.tBodies[0];
+        const rows = Array.from(tbody.rows);
+        let multiplier = 1;
+
+        if (sortOrder === 'asc') {
+            multiplier = 1;
+            table.setAttribute('data-sort-order', 'asc');
+        } else if (sortOrder === 'desc') {
+            multiplier = -1;
+            table.setAttribute('data-sort-order', 'desc');
+        } else {
+            return; // No sorting if no option selected
+        }
+
+        rows.sort((a, b) => {
+            const aUserId = a.cells[0].textContent.trim();
+            const bUserId = b.cells[0].textContent.trim();
+
+            // Handle numeric sorting if User IDs are numeric
+            if (!isNaN(aUserId) && !isNaN(bUserId)) {
+                return (parseFloat(aUserId) - parseFloat(bUserId)) * multiplier;
+            }
+
+            // Handle string comparison
+            return aUserId.localeCompare(bUserId) * multiplier;
+        });
+
+        // Append sorted rows back to the table
+        rows.forEach(row => tbody.appendChild(row));
+    }
+
+    // Function to export table to CSV
+    function exportTableToCSV() {
+        const table = document.getElementById('driverTable');
+        const rows = table.querySelectorAll('tr');
+
+        // Prepare CSV content
+        const csvContent = [];
+
+        // Extract headers
+        const headers = Array.from(rows[0].querySelectorAll('th'))
+            .map(header => header.textContent.trim())
+            .slice(0, -1); // Exclude the 'Actions' column
+        csvContent.push(headers.join(','));
+
+        // Extract data rows
+        for (let i = 1; i < rows.length; i++) {
+            const rowData = Array.from(rows[i].querySelectorAll('td'))
+                .slice(0, -1) // Exclude the 'Actions' column
+                .map(cell => {
+                    // Escape double quotes and wrap in quotes to handle commas in data
+                    let cellText = cell.textContent.trim().replace(/"/g, '""');
+                    return `"${cellText}"`;
+                });
+
+            csvContent.push(rowData.join(','));
+        }
+
+        // Create CSV file
+        const csvString = csvContent.join('\n');
+        const blob = new Blob([csvString], { type: 'text/csv;charset=utf-8;' });
+
+        // Create download link
+        const link = document.createElement('a');
+        const url = URL.createObjectURL(blob);
+        link.setAttribute('href', url);
+        link.setAttribute('download', 'drivers_export.csv');
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+</script>

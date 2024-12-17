@@ -1,0 +1,218 @@
+﻿@page
+@model bus_transport_mgt_sys.Pages.Dashboards.Routes.IndexModel
+
+@{
+    ViewData["Title"] = "Route Management";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <a asp-page="/Dashboards/adminDashboard" class="btn btn-secondary">Back</a>
+        <h1 class="text-primary">Route Management</h1>
+        <div class="d-flex gap-2">
+            <a asp-page="Create" class="btn btn-success">Create New</a>
+            <button onclick="exportTableToCSV()" class="btn btn-primary">Export to CSV</button>
+        </div>
+    </div>
+
+    <!-- Search and Filter Controls -->
+    <div class="row mb-3">
+        <!-- Search Field -->
+        <div class="col-md-4">
+            <input id="searchInput" type="text" class="form-control" placeholder="Search routes..." onkeyup="debouncedFilterTable()" />
+        </div>
+
+        <!-- Filter by Departure -->
+        <div class="col-md-3">
+            <select id="filterDeparture" class="form-select" onchange="filterTable()">
+                <option value="">Filter by Departure</option>
+                @foreach (var departure in Model.DeparturesDistinct)
+                {
+                    <option value="@departure">@departure</option>
+                }
+            </select>
+        </div>
+
+        <!-- Filter by Destination -->
+        <div class="col-md-3">
+            <select id="filterDestination" class="form-select" onchange="filterTable()">
+                <option value="">Filter by Destination</option>
+                @foreach (var destination in Model.DestinationsDistinct)
+                {
+                    <option value="@destination">@destination</option>
+                }
+            </select>
+        </div>
+
+        <!-- Sort by Route Name -->
+        <div class="col-md-2">
+            <select id="sortOrder" class="form-select" onchange="sortTableByRouteName()">
+                <option value="">Sort by Route Name</option>
+                <option value="asc">Route Name Ascending</option>
+                <option value="desc">Route Name Descending</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Routes Table -->
+    <table id="routeTable" class="table table-striped table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th onclick="sortTable(0)" style="cursor: pointer;">Route Name</th>
+                <th onclick="sortTable(1)" style="cursor: pointer;">Departure</th>
+                <th onclick="sortTable(2)" style="cursor: pointer;">Destination</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Route)
+            {
+                <tr>
+                    <td>@item.RouteName</td>
+                    <td>@item.Departure</td>
+                    <td>@item.Destination</td>
+                    <td>
+                        <div class="d-flex gap-2">
+                            <a asp-page="./Edit" asp-route-id="@item.RouteId" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-page="./Details" asp-route-id="@item.RouteId" class="btn btn-info btn-sm">Details</a>
+                            <a asp-page="./Delete" asp-route-id="@item.RouteId" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this route?');">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- JavaScript for Frontend Search, Sort, Filter, and Export -->
+<script>
+    // Debounce function to optimize search performance
+    function debounce(func, delay) {
+        let debounceTimer;
+        return function () {
+            const context = this;
+            const args = arguments;
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => func.apply(context, args), delay);
+        }
+    }
+
+    // Attach debounce to the search input
+    const debouncedFilterTable = debounce(filterTable, 300);
+
+    // Function to filter table rows
+    function filterTable() {
+        const searchInput = document.getElementById('searchInput').value.toLowerCase();
+        const filterDeparture = document.getElementById('filterDeparture').value.toLowerCase();
+        const filterDestination = document.getElementById('filterDestination').value.toLowerCase();
+        const table = document.getElementById('routeTable');
+        const rows = table.getElementsByTagName('tr');
+
+        for (let i = 1; i < rows.length; i++) { // Start from 1 to skip header
+            const routeName = rows[i].cells[0].textContent.toLowerCase();
+            const departure = rows[i].cells[1].textContent.toLowerCase();
+            const destination = rows[i].cells[2].textContent.toLowerCase();
+
+            const matchesSearch = routeName.includes(searchInput) || departure.includes(searchInput) || destination.includes(searchInput);
+            const matchesFilterDeparture = !filterDeparture || departure === filterDeparture;
+            const matchesFilterDestination = !filterDestination || destination === filterDestination;
+
+            rows[i].style.display = (matchesSearch && matchesFilterDeparture && matchesFilterDestination) ? '' : 'none';
+        }
+    }
+
+    // Function to sort table by column
+    function sortTable(columnIndex) {
+        const table = document.getElementById('routeTable');
+        const tbody = table.tBodies[0];
+        const rows = Array.from(tbody.rows);
+        const currentSortOrder = table.getAttribute('data-sort-order') === 'asc' ? 'desc' : 'asc';
+        const multiplier = currentSortOrder === 'asc' ? 1 : -1;
+
+        rows.sort((a, b) => {
+            const aText = a.cells[columnIndex].textContent.trim();
+            const bText = b.cells[columnIndex].textContent.trim();
+
+            // Handle string comparison for all columns
+            return aText.localeCompare(bText) * multiplier;
+        });
+
+        // Append sorted rows back to the table
+        rows.forEach(row => tbody.appendChild(row));
+
+        // Update sort order attribute
+        table.setAttribute('data-sort-order', currentSortOrder);
+    }
+
+    // Function to sort table by Route Name using the sortOrder select
+    function sortTableByRouteName() {
+        const sortOrder = document.getElementById('sortOrder').value;
+        const table = document.getElementById('routeTable');
+        const tbody = table.tBodies[0];
+        const rows = Array.from(tbody.rows);
+        let multiplier = 1;
+
+        if (sortOrder === 'asc') {
+            multiplier = 1;
+            table.setAttribute('data-sort-order', 'asc');
+        } else if (sortOrder === 'desc') {
+            multiplier = -1;
+            table.setAttribute('data-sort-order', 'desc');
+        } else {
+            return; // No sorting if no option selected
+        }
+
+        rows.sort((a, b) => {
+            const aRouteName = a.cells[0].textContent.trim();
+            const bRouteName = b.cells[0].textContent.trim();
+
+            // Handle string comparison
+            return aRouteName.localeCompare(bRouteName) * multiplier;
+        });
+
+        // Append sorted rows back to the table
+        rows.forEach(row => tbody.appendChild(row));
+    }
+
+    // Function to export table to CSV
+    function exportTableToCSV() {
+        const table = document.getElementById('routeTable');
+        const rows = table.querySelectorAll('tr');
+
+        // Prepare CSV content
+        const csvContent = [];
+
+        // Extract headers
+        const headers = Array.from(rows[0].querySelectorAll('th'))
+            .map(header => header.textContent.trim())
+            .slice(0, -1); // Exclude the 'Actions' column
+        csvContent.push(headers.join(','));
+
+        // Extract data rows
+        for (let i = 1; i < rows.length; i++) {
+            const rowData = Array.from(rows[i].querySelectorAll('td'))
+                .slice(0, -1) // Exclude the 'Actions' column
+                .map(cell => {
+                    // Escape double quotes and wrap in quotes to handle commas in data
+                    let cellText = cell.textContent.trim().replace(/"/g, '""');
+                    return `"${cellText}"`;
+                });
+
+            csvContent.push(rowData.join(','));
+        }
+
+        // Create CSV file
+        const csvString = csvContent.join('\n');
+        const blob = new Blob([csvString], { type: 'text/csv;charset=utf-8;' });
+
+        // Create download link
+        const link = document.createElement('a');
+        const url = URL.createObjectURL(blob);
+        link.setAttribute('href', url);
+        link.setAttribute('download', 'routes_export.csv');
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+</script>

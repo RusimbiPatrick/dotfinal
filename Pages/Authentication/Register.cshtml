@@ -1,0 +1,48 @@
+﻿@page
+@model bus_transport_mgt_sys.Pages.Authentication.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+<div class="register-container">
+    <form method="post" class="register-form">
+        <h2>Create an Account</h2>
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <div class="alert alert-danger">
+                @Model.ErrorMessage
+            </div>
+        }
+        <div class="form-group">
+            <label asp-for="User.FullName">Full Name</label>
+            <input asp-for="User.FullName" class="form-control" placeholder="Enter your full name" />
+            <span asp-validation-for="User.FullName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="User.Email">Email</label>
+            <input asp-for="User.Email" class="form-control" placeholder="Enter your email" type="email" />
+            <span asp-validation-for="User.Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="User.Phone">Phone Number</label>
+            <input asp-for="User.Phone" class="form-control" placeholder="Enter your phone number" />
+            <span asp-validation-for="User.Phone" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="User.PasswordHash">Password</label>
+            <input asp-for="User.PasswordHash" class="form-control" placeholder="Create a strong password" type="password" />
+            <span asp-validation-for="User.PasswordHash" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ConfirmPassword">Confirm Password</label>
+            <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm your password" type="password" />
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Register</button>
+        <div class="login-link">
+            Already have an account? <a asp-page="/Authentication/Login">Login here</a>
+        </div>
+    </form>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,138 @@
+﻿@page
+@model bus_transport_mgt_sys.Pages.Dashboards.adminDashboardModel
+@{
+    ViewData["Title"] = "Admin Dashboard";
+
+    Layout = "~/Pages/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container-fluid py-4">
+    <!-- Dashboard Header -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <h1 class="h3 fw-bold">Admin Dashboard</h1>
+                <form method="post" asp-page-handler="Logout">
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fas fa-sign-out-alt"></i> Logout
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Statistics Cards -->
+    <div class="row g-3">
+        <div class="col-md-3 col-sm-6">
+            <div class="card shadow-sm border-0 h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-users fa-3x text-primary mb-3"></i>
+                    <h5 class="card-title">Total Users</h5>
+                    <p class="fs-3 fw-bold text-dark">@Model.ActiveUsers</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card shadow-sm border-0 h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-bus fa-3x text-success mb-3"></i>
+                    <h5 class="card-title">Active Buses</h5>
+                    <p class="fs-3 fw-bold text-dark">@Model.ActiveBuses</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card shadow-sm border-0 h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-route fa-3x text-warning mb-3"></i>
+                    <h5 class="card-title">Pending Routes</h5>
+                    <p class="fs-3 fw-bold text-dark">@Model.PendingRoutes</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="card shadow-sm border-0 h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-ticket-alt fa-3x text-danger mb-3"></i>
+                    <h5 class="card-title">Support Tickets</h5>
+                    <p class="fs-3 fw-bold text-dark">@Model.OpenSupportTickets</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tables Section -->
+    <div class="row mt-4 g-4">
+        <!-- Recent User Registrations -->
+        <div class="col-lg-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">Recent User Registrations</h5>
+                </div>
+                <div class="card-body">
+                    <table class="table table-hover">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Name</th>
+                                <th>Email</th>
+                                <th>Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var user in Model.RecentUsers)
+
+                            {
+                                <tr>
+                                    <td>@user.FullName</td>
+                                    <td>@user.Email</td>
+                                    <td>@user.RegistrationDate.ToString("dd MMM yyyy")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Active Routes -->
+        <div class="col-lg-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-success text-white">
+                    <h5 class="mb-0">Active Routes</h5>
+                </div>
+                <div class="card-body">
+                    <table class="table table-hover">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Route</th>
+                                <th>Start</th>
+                                <th>End</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var route in Model.ActiveRoutes)
+
+                            {
+                                <tr>
+                                    <td>@route.RouteName</td>
+                                    <td>@route.StartPoint</td>
+                                    <td>@route.EndPoint</td>
+                                    <td>
+                                        <span class="badge bg-@(route.IsActive ? "success" : "warning")">
+                                            @(route.IsActive ? "Active" : "Pending")
+                                        </span>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+}

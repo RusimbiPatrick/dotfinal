@@ -1,0 +1,1802 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\authentication\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\authentication\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\shared\\_clientlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\shared\\_clientlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\clientdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\clientdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\authentication\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\authentication\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\shared\\_driverlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\shared\\_driverlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\driverdasboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\driverdasboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\clientdashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\clientdashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\data\\bus_transportationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:data\\bus_transportationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\bus_transport_mgt_sys.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:bus_transport_mgt_sys.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\bus_transport_mgt_sys.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bus_transport_mgt_sys.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\driverdasboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\driverdasboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\confirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\confirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\configuration\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:configuration\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\admindashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\admindashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\payments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\payments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\models\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:models\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\stops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\stops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\schedules\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\schedules\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\drivers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\drivers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\routes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\routes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\dashboards\\bus\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\dashboards\\bus\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|d:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\pages\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390FF6F5-F0A2-4CCF-976B-809DACD41260}|bus_transport_mgt_sys.csproj|solutionrelative:pages\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\efpt.config.json",
+              "RelativeDocumentMoniker": "efpt.config.json",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\efpt.config.json",
+              "RelativeToolTip": "efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T16:55:08.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:37:20.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T08:37:30.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:49:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:02:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Authentication\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Authentication\\Register.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Authentication\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Authentication\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:00:48.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:24:11.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ClientLayout.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Shared\\_ClientLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ClientLayout.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Shared\\_ClientLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ClientLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:40:34.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clientDashboard.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\clientDashboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\clientDashboard.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\clientDashboard.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\clientDashboard.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAD4v8UAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:30:35.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Authentication\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Authentication\\Login.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Authentication\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Authentication\\Login.cshtml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:54:21.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Authentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Authentication\\Login.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Authentication\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Authentication\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T15:52:44.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:39:36.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:25:13.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Index.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Index.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAkwKEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:26:31.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T18:52:46.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Create.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Create.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:00:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Confirmation.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Confirmation.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:55:43.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmailService.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:37:35.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_DriverLayout.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Shared\\_DriverLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_DriverLayout.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Shared\\_DriverLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_DriverLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T06:29:01.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:50.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "driverDasboard.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\driverDasboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\driverDasboard.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\driverDasboard.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\driverDasboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:31:17.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Index.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:06.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Index.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:55:06.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "adminDashboard.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\adminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\adminDashboard.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\adminDashboard.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\adminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:31:45.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clientDashboard.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\clientDashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\clientDashboard.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\clientDashboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\clientDashboard.cshtml.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAIwN8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:53:54.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Index.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:15:48.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Index.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:46:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Create.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:15:46.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Bus.cs",
+              "RelativeDocumentMoniker": "Models\\Bus.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Bus.cs",
+              "RelativeToolTip": "Models\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:05:17.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bus_transportationDBContext.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Data\\bus_transportationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\bus_transportationDBContext.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Data\\bus_transportationDBContext.cs",
+              "RelativeToolTip": "Data\\bus_transportationDBContext.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:37:10.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:04:14.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:20:25.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "bus_transport_mgt_sys.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\bus_transport_mgt_sys.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "bus_transport_mgt_sys.csproj.Backup.tmp",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\bus_transport_mgt_sys.csproj.Backup.tmp",
+              "RelativeToolTip": "bus_transport_mgt_sys.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T05:38:58.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Delete.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:55:06.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Create.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:55:05.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "bus_transport_mgt_sys.csproj.user",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\bus_transport_mgt_sys.csproj.user",
+              "RelativeDocumentMoniker": "bus_transport_mgt_sys.csproj.user",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\bus_transport_mgt_sys.csproj.user",
+              "RelativeToolTip": "bus_transport_mgt_sys.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-17T05:38:58.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Index.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:47:21.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Create.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:27:51.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Index.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:00:13.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "driverDasboard.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\driverDasboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\driverDasboard.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\driverDasboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\driverDasboard.cshtml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwFEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:38:21.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Index.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:46:41.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Index.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Index.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:00:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Index.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Index.cshtml",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAOsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:47:21.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Index.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Index.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwDoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:15:47.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Index.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:45:56.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Index.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Index.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:26:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Create.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:05.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Index.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:45:56.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Confirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Confirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Confirmation.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Confirmation.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Confirmation.cshtml.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAgwJ4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:56:09.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:05:08.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:28:10.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:45:50.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\configuration\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "configuration\\EmailSettings.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\configuration\\EmailSettings.cs",
+              "RelativeToolTip": "configuration\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:33:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Create.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T23:56:21.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "adminDashboard.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\adminDashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\adminDashboard.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\adminDashboard.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\adminDashboard.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:48:57.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Create.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwB4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:46:39.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Delete.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:06.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Details.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:06.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Details.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:55:06.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Edit.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:55:06.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Tickets\\Edit.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Tickets\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Tickets\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:55:06.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Create.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Create.cshtml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwFkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:15:47.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Create.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:26:30.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Create.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Create.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:26:30.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Models\\Schedule.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Schedule.cs",
+              "RelativeToolTip": "Models\\Schedule.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:35:14.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:55:41.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Delete.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:15:47.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Delete.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:15:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Details.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:15:47.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Details.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:15:47.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Edit.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:15:47.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Payments\\Edit.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Payments\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Payments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:15:47.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Stop.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Stop.cs",
+              "RelativeDocumentMoniker": "Models\\Stop.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Stop.cs",
+              "RelativeToolTip": "Models\\Stop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:29:59.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "Models\\Route.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Route.cs",
+              "RelativeToolTip": "Models\\Route.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:04:56.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Edit.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:46:40.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Create.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Create.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:46:40.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Create.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Create.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:00:11.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Models\\Driver.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Models\\Driver.cs",
+              "RelativeToolTip": "Models\\Driver.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:04:50.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Edit.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:00:11.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Details.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:00:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Delete.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:00:12.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Details.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAIBJwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:46:40.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Delete.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwCYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:46:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Details.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:47:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Edit.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:47:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Edit.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:47:20.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Details.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:47:20.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Delete.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:47:21.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Delete.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:47:21.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Create.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:47:20.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Stops\\Create.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Stops\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Stops\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:47:20.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Delete.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:46:40.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Details.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:46:40.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Schedules\\Edit.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Schedules\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Schedules\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:46:40.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Delete.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:45:56.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Delete.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:45:56.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Details.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:45:55.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Details.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:45:55.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Edit.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:45:55.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Drivers\\Edit.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Drivers\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Drivers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:45:55.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Delete.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:26:31.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Delete.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:26:30.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Details.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Details.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:26:30.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Edit.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:26:30.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Details.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:26:30.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Routes\\Edit.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Routes\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Dashboards\\Routes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:26:30.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Delete.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:00:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Edit.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:00:11.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboards\\Bus\\Details.cshtml.cs",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Dashboards\\Bus\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Dashboards\\Bus\\Details.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:00:12.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Authentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Authentication\\Register.cshtml",
+              "ToolTip": "D:\\bus_transport_mgt_sys\\bus_transport_mgt_sys\\Pages\\Authentication\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Authentication\\Register.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvy8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T12:59:15.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
